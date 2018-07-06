@@ -16,3 +16,5 @@ eller är det bara dubbla radbrytningar som skapar nya stycken?
 
 Så där!
 
+Hur gör man för att lägga till en lång kommentar till incheckningen?
+
